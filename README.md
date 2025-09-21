@@ -28,7 +28,7 @@
 ---
 
 ## 🎨 Coding Vibes  
-<img src="https://i.imgur.com/6X8XnQx.gif" alt="coding gif" width="400"/>  
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif" width="400"/>  
 
 ---
 
