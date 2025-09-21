@@ -6,7 +6,9 @@
 ---
 
 ## 🛠️ Tech Stack  
-- **Main:** ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?logo=kotlin&logoColor=white&style=for-the-badge)  
+- **Main:**  
+  ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?logo=kotlin&logoColor=white&style=for-the-badge)  
+
 - **Also using:**  
   ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=for-the-badge)  
   ![JavaScript](https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E&style=for-the-badge)  
@@ -16,19 +18,19 @@
   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)  
 
 📝 Fokus utama: **Kotlin (Android)**  
-🔹 Pendukung: **Java (20%)** & **JavaScript (20%)** untuk kebutuhan tertentu  
+🔹 Pendukung: **Java (20%)** & **JavaScript (20%)**  
 
 ---
 
 ## 📊 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Doduyxuvan&show_icons=true&theme=radical)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Doduyxuvan&theme=radical&hide_border=false)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Doduyxuvan&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Doduyxuvan&layout=compact&theme=radical&langs_count=6&hide=css,html)  
 
 ---
 
 ## 🎨 Coding Vibes  
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif" width="400"/>  
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00FF00&lines=Hello,+I'm+Doduyxuvan;Software+Developer;Android+%7C+Web+Enthusiast;Always+Learning+%26+Sharing)  
 
 ---
 
